@@ -1,0 +1,9 @@
+---
+- name: Provsion my development environment
+  hosts: localhost
+
+  roles:
+    - ike-jp.anyenv
+    - ike-jp.vim
+    - ike-jp.ctags
+    - dotfiles

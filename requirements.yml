@@ -1,0 +1,15 @@
+---
+- src: https://github.com/ike-jp/ansible-role-anyenv.git
+  version: latest
+  name: ike-jp.anyenv
+
+- src: https://github.com/ike-jp/ansible-role-vim.git
+  version: latest
+  name: ike-jp.vim
+
+- src: https://github.com/ike-jp/ansible-role-ctags.git
+  version: latest
+  name: ike-jp.ctags
+
+
+
