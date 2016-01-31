@@ -11,5 +11,9 @@
   version: latest
   name: ike-jp.ctags
 
+- src: https://github.com/ike-jp/ansible-role-mydotfiles.git
+  version: latest
+  name: ike-jp.mydotfiles
+
 
 
