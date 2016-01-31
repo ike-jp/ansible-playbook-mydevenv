@@ -1,2 +1,4 @@
-# ansible-role-mydevenv
-My Development Environment
+# Ansible Playbook: mydevenv
+
+Installs my development environment RHEL/CentOS/Debian/Ubuntu.
+
